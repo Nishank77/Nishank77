@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nishank.kose77@gmail.com**
 
-- 📄 Know about my experiences [Currently working as a SDE in CDAC-Pune](Currently working as a SDE in CDAC-Pune)
+- 📄 Know about my experiences [Currently working as a SDE in CDAC-Pune]
 
 - ⚡ Fun fact **I love Films, TV Shows and Animes, want to pursue Stand-Up for fun, hope to perform some material soon**
 
