@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishank Kose</h1>
 <h3 align="center">A passionate Full Stack Developer from Pune, India, working as a SDE in CDAC-Pune</h3>
 
-- 🌱 I’m currently learning **React, Express**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Nishank77](https://github.com/Nishank77)
 
 - 📫 How to reach me **nishank.kose77@gmail.com**
